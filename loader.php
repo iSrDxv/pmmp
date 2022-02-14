@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <meta name="title" content="PMMP 4.0" />
-
   <title>Document</title>
   
   <link rel="stylesheet" href="style.css">
