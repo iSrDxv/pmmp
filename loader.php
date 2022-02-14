@@ -1,3 +1,6 @@
+<?php
+$ip = $_POST["ip"];
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
